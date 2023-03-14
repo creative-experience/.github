@@ -8,9 +8,9 @@
 
 ## Entregas:  
 
-- [x] Link do Repositório do projeto
-- [x] [Documento escrito]()
-- [] [Protótipo]()  
+- [ ] Link do Repositório do projeto  
+- [ ] [Documento escrito]()  
+- [ ] [Protótipo]()  
 
 ## Cronograma de Atividades:
 
