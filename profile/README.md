@@ -2,7 +2,7 @@
 
 ## Equipe:
 
-- [Eduarda Grein](https://github.com/eduardaGrein)  
+- [Eduarda Grein](https://github.com/doardaGrein)  
 - [Juliane Maran](https://github.com/JulianeMaran32)  
 - [Pedro](https://github.com/oPeeedro)  
 
