@@ -8,8 +8,8 @@
 
 ## Entregas:  
 
-- [] Link do Repositório do projeto
-- [] [Documento escrito]()
+- [x] Link do Repositório do projeto
+- [x] [Documento escrito]()
 - [] [Protótipo]()  
 
 ## Cronograma de Atividades:
