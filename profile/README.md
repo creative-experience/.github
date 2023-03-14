@@ -1,5 +1,11 @@
 # Creative Experience
 
+## Equipe:
+
+[Eduarda Grein](https://github.com/eduardaGrein)
+[Juliane Maran](https://github.com/JulianeMaran32)
+[Pedro](https://github.com/oPeeedro)
+
 ## Cronograma de Atividades:
 
 06/03 - Definição do projeto  
